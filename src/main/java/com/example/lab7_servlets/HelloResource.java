@@ -1,4 +1,4 @@
-package com.example.lab6_servlets;
+package com.example.lab7_servlets;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

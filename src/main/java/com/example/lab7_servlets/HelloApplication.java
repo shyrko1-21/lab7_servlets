@@ -1,4 +1,4 @@
-package com.example.lab6_servlets;
+package com.example.lab7_servlets;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

@@ -1,4 +1,4 @@
-package com.example.lab6_servlets;
+package com.example.lab7_servlets;
 
 import java.io.*;
 import javax.servlet.http.*;
@@ -9,7 +9,7 @@ public class HelloServlet extends HttpServlet {
     private String message;
 
     public void init() {
-        message = "Hello World!";
+        message = "Hello World_servlet!";
     }
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
